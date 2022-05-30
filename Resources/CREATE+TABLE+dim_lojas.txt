@@ -1,0 +1,6 @@
+CREATE TABLE dim_lojas (
+id char(1),
+logradouro varchar(1000),
+cidade varchar(100),
+estado char(2)
+)

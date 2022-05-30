@@ -1,0 +1,5 @@
+CREATE TABLE dim_produtos (
+id char(3),
+produto varchar(1000),
+valor float
+)

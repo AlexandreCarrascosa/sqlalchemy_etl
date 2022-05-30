@@ -1,0 +1,6 @@
+CREATE TABLE fato_pedidos (
+id char(3),
+produto char(3),
+loja char(1),
+data date
+)

@@ -1,0 +1,5 @@
+INSERT INTO dim_lojas VALUES
+('1', 'Avenida Washington Soares 3636', 'Fortaleza', 'CE'),
+('2', 'Avenida Paulista 1106', 'São Paulo', 'SP'),
+('3', 'Avenida Nossa Senhora de Copacabana 777', 'Rio de Janeiro', 'RJ'),
+('4', 'Avenida Sete de Setembro 202', 'Salvador', 'BA')
